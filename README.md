@@ -9,3 +9,6 @@ An open-source custom launcher and authentication handler for Minecraft: Java Ed
 
 ## Requirements
 - An active Microsoft Account with an owned copy of **Minecraft: Java Edition**.
+
+## Disclaimer
+This project is an independent open-source tool and is not affiliated with, endorsed by, or associated with Mojang AB, Microsoft, or Xbox. All trademarks belong to their respective owners.
